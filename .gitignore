@@ -1,3 +1,5 @@
+### Clojure ###
+.clj-kondo/.cache/
 pom.xml
 pom.xml.asc
 *.jar
@@ -12,3 +14,5 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+.calva
+.lsp
